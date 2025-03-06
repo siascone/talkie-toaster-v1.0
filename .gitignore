@@ -1,0 +1,9 @@
+__pycache__/
+distilgpt2_tokenizer/
+test_data/
+train_data/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
