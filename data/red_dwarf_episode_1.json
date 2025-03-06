@@ -1,0 +1,196 @@
+{
+    "dialogues": [
+        {
+            "speaker": "Lister",
+            "text": "Oh, hey!"
+        },
+        {
+            "speaker": "Holly",
+            "text": "I don't suppose it's any consolation, but if she *were* still alive, the age difference would be insurmountable."
+        },
+        {
+            "speaker": "Lister",
+            "text": "She was part of me plan. I never got round to telling her, but she was going to come with me to Fiji. She was going to wear a white dress and ride the horses and I was going to take care of everything else. It was me plan. I planned it."
+        },
+        {
+            "speaker": "Holly",
+            "text": "Well, she won't be much use to you on Fiji now. Not unless it snows and you need something to grit the path with."
+        },
+        {
+            "speaker": "Lister",
+            "text": "Holly!"
+        },
+        {
+            "speaker": "Holly",
+            "text": "Sorry. I'm sorry about that. I've been on my own for three million years, and I'm just used to saying what I think. I think I've gone a bit peculiar, to tell you the truth."
+        },
+        {
+            "speaker": "Lister",
+            "text": "So everyone's dead? I'm on me own? There's just me?"
+        },
+        {
+            "speaker": "Holly",
+            "text": "Well, technically speaking, yes."
+        },
+        {
+            "speaker": "Lister",
+            "text": "What do you mean, 'technically speaking'?"
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "Hello, Lister. Long time no see."
+        },
+        {
+            "speaker": "Lister",
+            "text": "Rimmer! You're a hologram?!"
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "Yes. That's because I'm dead. Dead as a can of spam. And it's all thanks to you."
+        },
+        {
+            "speaker": "Lister",
+            "text": "Me? What did I do?"
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "If you hadn't kept that stupid cat, Lister, and hadn't been sent to stasis, I would have had some help when I was mending the drive plate, and I wouldn't be dead."
+        },
+        {
+            "speaker": "Lister",
+            "text": "What's it feel like?"
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "Death? It's like being on holiday with a group of Germans."
+        },
+        {
+            "speaker": "Lister",
+            "text": "No, I mean being a hologram."
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "Do you mind? Being a hologram is fine, Lister. I still have the same drives, the same feelings, the same emotions, but I can't *touch* anything. Never again will I be able to brush a rose against my cheek, cradle a laughing child, or interfere with a woman sexually."
+        },
+        {
+            "speaker": "Lister",
+            "text": "Rimmer, you never used to do any of those things anyway!"
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "But I would have done one day, murderer!"
+        },
+        {
+            "speaker": "Lister",
+            "text": "Hey, hey! I didn't do anything! It was *you* who didn't fix the drive plates properly."
+        },
+        {
+            "speaker": "Lister",
+            "text": "Aaahhh! Holly, what was that?"
+        },
+        {
+            "speaker": "Holly",
+            "text": "During the radioactive crisis, Dave, your cat and her kittens were safely sealed in the hold. And they've been breeding there for three million years, and have evolved into the life form you just saw in the corridor."
+        },
+        {
+            "speaker": "Lister",
+            "text": "I don't get it."
+        },
+        {
+            "speaker": "Holly",
+            "text": "Well, you know how mankind evolved from apes?"
+        },
+        {
+            "speaker": "Lister",
+            "text": "Yeah, I know that."
+        },
+        {
+            "speaker": "Holly",
+            "text": "He evolved from cats. His ancestors were cats. He's descended from cats. He is a cat."
+        },
+        {
+            "speaker": "Cat",
+            "text": "Aaahhh, ooowww, eee! How am I looking? (He pulls out a small mirror.) Looking nice. No, wait a minute. I'm looking better than nice. I'm looking dangerous. Aaaoooww, dangerous!"
+        },
+        {
+            "speaker": "Lister",
+            "text": "Hello... Cat?"
+        },
+        {
+            "speaker": "Cat",
+            "text": "Whoa! Crease!"
+        },
+        {
+            "speaker": "Lister",
+            "text": "Here you go, Cat."
+        },
+        {
+            "speaker": "Cat",
+            "text": "Ah, Krispies!"
+        },
+        {
+            "speaker": "Lister",
+            "text": "Holly says you like these."
+        },
+        {
+            "speaker": "Cat",
+            "text": "Mmmm!"
+        },
+        {
+            "speaker": "Lister",
+            "text": "Where are all your other catty friends, Cat?"
+        },
+        {
+            "speaker": "Cat",
+            "text": "Good Krispies, man!"
+        },
+        {
+            "speaker": "Lister",
+            "text": "But where are all the other little kitties? Are they gone? Are they dead? Have they left you?"
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "Who cares? I want it off the ship!"
+        },
+        {
+            "speaker": "Lister",
+            "text": "No! He's coming home with us, aren't you, Cat?"
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "Home? And where exactly is home supposed to be?"
+        },
+        {
+            "speaker": "Lister",
+            "text": "Earth."
+        },
+        {
+            "speaker": "Rimmer",
+            "text": "Earth? What makes you think there'll be any Earth, Lister? And even if there is, look what it's done to a household pet in three million years."
+        },
+        {
+            "speaker": "Cat",
+            "text": "Frankenstein? The Holy Mother? The Virgin Birth? No one believes that stuff!"
+        },
+        {
+            "speaker": "Lister",
+            "text": "No, it was a big black tom on Titan."
+        },
+        {
+            "speaker": "Cat",
+            "text": "Frankenstein, yeah! I remember that stuff from kitty school. The Holy Mother, saved by Cloister the Stupid, who was frozen in time, and who gaveth of his life that we might live."
+        },
+        {
+            "speaker": "Lister",
+            "text": "No! No, it's not Cloister, it's me, it's Lister! It's *Lister* the ... stupid?!"
+        },
+        {
+            "speaker": "Cat",
+            "text": "Who shall returneth to lead us to Fushal, the Promised Land."
+        },
+        {
+            "speaker": "Lister",
+            "text": "No, it's not Fushal, it's Fiji! And I will! I'll lead you there. (To Rimmer) *That's* where we're going. Holly, plot a course for Fiji. Look out, Earth -- the slime's coming home!"
+        }
+    ]
+}
